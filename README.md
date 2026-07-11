@@ -116,5 +116,5 @@ Every tagged release of this repository is archived automatically on Zenodo, whi
 
 ## Acknowledgements
 
-This work extends the ICiMR 2025 conference paper of Ng et al. Repository maintenance by Ahmad Zia ([ahmadzia.com](https://www.ahmadzia.com)). Compute was provided by Google Colab and Kaggle at their free tiers.
+This work extends the ICiMR 2025 conference paper of Ng et al. Repository maintenance by Ahmad Zia ([www.ahmadzia.com](https://www.ahmadzia.com)). Compute was provided by Google Colab and Kaggle at their free tiers.
 
