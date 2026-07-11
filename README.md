@@ -1,4 +1,5 @@
-# ARC-D: Adaptive Distilled Cascade for Barcode-Free Retail Recognition
+# ARC-D: Efficient Adaptive Cascade Inference for Automated Product Identification Without Barcodes
+
 
 Reference implementation and experiment artifacts for the paper
 **"Efficient Adaptive Cascade Inference for Automated Product Identification Without Barcodes"**
